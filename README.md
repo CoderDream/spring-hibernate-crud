@@ -14,7 +14,7 @@ Alexey是一个在使用Java，TestNG 和Selenium的自动化WEB应用程序中�
 
 示例web应用程序是基于Spring MVC, Hibernate, Maven的，界面是基于HTML的。这个应用程序将提供所有的CRUD操作：增删改查。和往常一样，我将使用Mysql作为我的数据库。这个应用程序将把足球俱乐部相关的实体来作为示例，所以这个教程将会涉及运动领域。
 
-
+![](https://raw.githubusercontent.com/CoderDream/spring-hibernate-crud/master/snapshot/01.jpg)
 
 #### 准备 ####
 
@@ -447,6 +447,7 @@ Alexey是一个在使用Java，TestNG 和Selenium的自动化WEB应用程序中�
 
 “List of teams” 页面的效果：
 
+![](https://raw.githubusercontent.com/CoderDream/spring-hibernate-crud/master/snapshot/02.jpg)
 
 #### 总结 ####
 
