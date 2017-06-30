@@ -357,9 +357,10 @@ Alexey是一个在使用Java，TestNG 和Selenium的自动化WEB应用程序中�
 	}
 
 基本上所有的方法和请求映射都是很清晰的。请注意editTeamPage() 和edditingTeam() 方法的@RequestMapping，对于不同的method属性包含不同的值。
+
 现在我们来看看JSP页面:
 
-“Add new team” 页面
+#### “Add new team” 页面 ####
 
 	...
 	<h1>Add team page</h1>
@@ -386,7 +387,7 @@ Alexey是一个在使用Java，TestNG 和Selenium的自动化WEB应用程序中�
 	<p><a href="${pageContext.request.contextPath}/index.html">Home page</a></p>
 	...
 
-“List of teams” 页面：
+#### “List of teams” 页面： ####
 
 	...
 	<h1>List of teams</h1>
@@ -415,7 +416,7 @@ Alexey是一个在使用Java，TestNG 和Selenium的自动化WEB应用程序中�
 	<p><a href="${pageContext.request.contextPath}/index.html">Home page</a></p>
 	...
 
-“Edit team” 页面：
+#### “Edit team” 页面： ####
 
 	
 	...
@@ -452,4 +453,5 @@ Alexey是一个在使用Java，TestNG 和Selenium的自动化WEB应用程序中�
 几个技术的整合通常不是一件简单的事情，所有如果要想成功就需要有耐心。在这篇文章中没有囊括所有的资源，你可以访问GitHub去查看哪些你感兴趣的类。
 
 原文链接： javacodegeeks 翻译： ImportNew.com - wudy
+
 译文链接： http://www.importnew.com/11121.html
